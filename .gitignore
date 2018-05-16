@@ -6,7 +6,6 @@
 *.iml
 *.iws
 *.ipr
-target
 */target
 */*/target
  
