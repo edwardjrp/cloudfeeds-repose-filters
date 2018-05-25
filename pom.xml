@@ -28,7 +28,7 @@
 
     <scm>
         <connection>scm:git:ssh://git@github.com/edwardjrp/cloudfeeds-repose-filters.git</connection>
-      <tag>HEAD</tag>
+      <tag>add-makefile</tag>
   </scm>
 
     <repositories>
