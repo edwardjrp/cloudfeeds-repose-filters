@@ -40,7 +40,7 @@
         <repository>
             <id>releases.maven.research.rackspace.com</id>
             <name>Rackspace Research Releases</name>
-            <url>https://artifacts.rackspace.net:443/artifactory/cloudfeeds-maven-local/</url>
+            <url>https://artifacts.rackspace.net:443/artifactory/cloudfeeds-maven-local</url>
         </repository>
     </repositories>
 
