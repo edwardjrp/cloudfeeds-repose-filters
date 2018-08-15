@@ -37,7 +37,7 @@
             <id>java.net2</id>
             <name>Repository hosting the jee6 artifacts</name>
             <!-- <url>http://download.java.net/maven/2</url> -->
-            <url>https://svn.apache.org/viewvc/maven</url>
+            <url>https://maven.research.rackspacecloud.com/content/groups/aggregate</url>
         </repository>
         <repository>
             <id>releases.maven.research.rackspace.com</id>
