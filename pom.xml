@@ -43,7 +43,7 @@
         <repository>
             <id>releases.maven.research.rackspace.com</id>
             <name>Rackspace Research Releases</name>
-            <url>https://staging.artifacts.rackspace.net:443/artifactory/cloudfeeds-maven-local</url>
+            <url>https://artifacts.rackspace.net:443/artifactory/cloudfeeds-maven-local</url>
         </repository>
     </repositories>
 
@@ -51,13 +51,13 @@
         <repository>
             <id>releases.maven.research.rackspace.com</id>
             <name>Rackspace Research Releases</name>
-            <url>https://staging.artifacts.rackspace.net:443/artifactory/cloudfeeds-maven-local</url>
+            <url>https://artifacts.rackspace.net:443/artifactory/cloudfeeds-maven-local</url>
         </repository>
 
         <snapshotRepository>
             <id>snapshots.maven.research.rackspace.com</id>
             <name>Rackspace Research Snapshots</name>
-            <url>https://staging.artifacts.rackspace.net:443/artifactory/cloudfeeds-maven-local</url>
+            <url>https://artifacts.rackspace.net:443/artifactory/cloudfeeds-maven-local</url>
         </snapshotRepository>
     </distributionManagement>
 
